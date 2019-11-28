@@ -13,6 +13,7 @@ You can edit this file as you like.
     , "math"
     , "prelude"
     , "psci-support"
+    , "random"
     ]
 , packages =
     ./packages.dhall
